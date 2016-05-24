@@ -1,0 +1,56 @@
+<FORM METHOD="POST" ACTION=results.asp>
+		<center>
+		<table width=480 cellpadding=5>
+		<tr><td colspan=2>
+		Welcome to our advanced search!  You can search on any combination of keywords,
+		authors, title, categories, isbn, publisher, publication date and more!  For
+		more <a href="#help">help</A> see below.
+		</td></tr>
+		<tr valign=top><td width=100>
+			<font color=purple><B>Keyword(s):</B></font>
+		</td><td>
+			<input name=keyword size=36><BR>
+			<font color=purple>
+			<input type=radio name="keywords" value=all checked>All
+			<input type=radio name="keywords" value=any>Any
+			</font>
+		</td></tr>
+		<tr valign=top><td>
+			<font color=purple><B>Title:</B></FONT>
+		</td><td>
+			<input name=query_title size=36><br>
+		</td></tr>
+		<tr valign=top><td>
+			<font color=purple><B>Author:</B></font>
+		</td><td>
+			<input name=query_author size=36>
+		</td></tr>
+		<tr valign=top><td>
+			<font color=purple><B>Category:</B></font>
+		</td><td>
+		<select name="query_category" size="1">
+		<option selected value="">ANY CATEGORY</option>
+</select>
+		</td></tr>
+		<tr valign=top><td>
+			<font color=purple><B>ISBN:</B></font>
+		</td><td>
+			<input name=query_isbn size=36>
+		</td></tr>
+		<tr valign=top><td>
+			<font color=purple><B>Display:</B></font>
+		</td><td>
+			<select name="displayrows" size="1">
+			<option selected value=10>10</option>
+			<option value=25>25</a>
+			<option value=50>50</a>
+			<option value=100>100</a>
+			</select>
+			<font color=purple><B> results at a time.</B></font>
+		</td></tr>
+		<tr><td>
+		</td><td>
+			<input type="submit" value="POWER SEARCH"><BR>
+		</td></tr>
+		<tr bgcolor=abcdef><td colspan=2><BR>
+			</FORM>

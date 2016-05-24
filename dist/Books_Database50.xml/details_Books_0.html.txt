@@ -1,0 +1,14 @@
+number form: 0
+source: http://www.aaronbooks.com/power.asp/results.asp
+number of nodes
+8
+
+number of leafs
+7
+1, "keyword", "Keyword(s):", "[]"
+2, "keywords", "", "[All, Any]"
+3, "query_title", "Title:", "[]"
+4, "query_author", "Author:", "[]"
+5, "query_category", "Category:", "[ANY CATEGORY]"
+6, "query_isbn", "ISBN:", "[]"
+7, "displayrows", "results at a time.", "[10, 25, 50, 100]"
