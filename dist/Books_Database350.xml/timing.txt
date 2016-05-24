@@ -1,0 +1,7 @@
+
+
+ Total URLs:$351
+URLs with forms:$91
+URLs without forms:$260
+URLs with WQI forms:$50
+URLs with WQI in Domain:$8

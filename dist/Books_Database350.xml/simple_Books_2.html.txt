@@ -1,0 +1,30 @@
+RBlock: - no label
+   RLine (0): -  no label
+   RTable: - no label
+      RBlock: TBC(0<1>,0<1>) - no label
+         RLine (2): -  no label
+            RLabel[label = Search By]
+            UI: select - no label
+      RBlock: TBC(0<1>,1<1>) - no label
+         RLine (2): -  no label
+            RLabel[label = Category]
+            UI: select - no label
+      RBlock: TBC(1<1>,0<1>) - no label
+         RLine (2): -  no label
+            RLabel[label = Keywords]
+            UI: text - no label
+      RBlock: TBC(1<1>,1<1>) - no label
+         RLine (2): -  no label
+            RLabel[label = Format]
+            UI: select - no label
+      RBlock: TBC(2<1>,0<1>) - no label
+         RLine (2): -  no label
+            RLabel[label = Sort Results By...]
+            UI: select - no label
+      RBlock: TBC(2<1>,1<1>) - no label
+         RLine (0): -  no label
+      RBlock: TBC(3<1>,0<1>) - no label
+         RLine (2): -  no label
+            RLabel[label = Number of results per page:]
+            UI: select - no label
+   RLine (0): -  no label

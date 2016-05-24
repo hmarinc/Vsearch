@@ -1,0 +1,104 @@
+<form action="/retail/searchresults.asp" id="form1" name="form1" method="get">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td>
+						<b>Search By</b><br>
+						<SELECT name=qutype size=1 width="110">
+							<option value=0>Any area
+							<option value=1 selected>Title
+							<option value=2>Author&#39;s Name
+							<option value=3>ISBN number
+							<option value=5>Publisher&#39;s name
+						</select></td>
+					<td>
+						<br><b>Category</b><br>
+						<select name="searchid">
+							<option value=0 selected>All Categories
+							<option value=301>Art
+							<option value=302>Audiobooks
+							<option value=303>Biography
+							<option value=304>Business
+							<option value=305>Children's
+							<option value=306>Computer
+							<option value=307>Cooking
+							<option value=38>Entertainment
+							<option value=311>Health
+							<option value=312>History
+							<option value=313>Home
+							<option value=314>Horror
+							<option value=310>Fiction
+							<option value=315>Mystery
+							<option value=316>Nonfiction
+							<option value=309>Family
+							<option value=317>Reference
+							<option value=318>Religion
+							<option value=319>Romance
+							<option value=320>Science
+							<option value=321>Scifi
+							<option value=322>Sports
+							<option value=323>Travel
+							<option value=324>Young Adult
+						</select></td>
+				</tr>
+				<tr>
+					<td>
+						<b>Keywords</b>
+						<br>
+						<input size="18" name="qu" value="" ></td>
+					<td>
+						<br><b>Format</b><br>
+						<SELECT name="formatid" size="1" width="110">
+							<option value=0 selected>Any
+							<option value=15>Audio Cassette
+							<option value=35>Audio CD
+							<option value=3>Hardcover
+							<option value=2>Paperback
+							<option value=1>Pocket Book
+							<option value=4>Computer Readable
+							<option value=5>Calendar
+						</select>
+						</td>
+				</tr>
+				<tr>
+					<td>
+						<br><b>Sort 
+						Results By...</b><br>
+						<select name="orderby" size="1">
+							<option value=6>Alphabetical
+							<option value=0>Most Popular
+							<option value=11>Publish Date
+							<!-- <option value=12>Publisher -->
+							<option value=10>Price Ascending
+							<option value=18>Price Descending
+						</select>
+					</td>
+					<!-- <td  valign="bottom">
+					<br>
+					<b>Precision:</b>
+					<br>
+					<select name="BoolSearch" size="1">
+						<option value="All" selected>All words
+						<option value="Any">Any words
+						<option value="Free">Boolean
+					</select>
+					</td>-->
+					<td valign="bottom">
+								<INPUT TYPE=submit value="Search"  border = "0" id=submit1 name=submit1>
+								<INPUT TYPE=hidden name="search_store" value="3">
+								<INPUT TYPE=hidden name="loc" value="106">
+								</td>
+					</tr>	
+							<tr>
+							<td>
+								<br>
+								<b>Number of results per page:</b>
+								<br>
+								<select name="nrecpage" size="1">
+									<option value="25" selected>25
+									<option value="40">40
+									<option value="55">55
+									<option value="70">70
+									<option value="85">85
+								</select></td>
+							</tr>
+				</form>

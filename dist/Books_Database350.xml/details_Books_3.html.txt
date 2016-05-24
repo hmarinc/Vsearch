@@ -1,0 +1,20 @@
+number form: 3
+source: http://www.christianbook.com/Christian/Books/advanced_search/91754517/http://www.christianbook.com/Christian/Books/advanced_search/1469705875
+number of nodes
+14
+
+number of leafs
+13
+1, "keywords", "Product Keywords:", "[]"
+2, "title", "Title:", "[]"
+3, "author", "Author/Artist: More on author search...", "[]"
+4, "publisher", "Publisher:", "[]"
+5, "isbn", "ISBN:", "[]"
+6, "sku", "CBD Stock Number:", "[]"
+7, "narrow", "Search In:", "[All Products, $100 and up, 5 stars, Academic, Accompaniment Tracks, Adventures in Odyssey &trade;, At least 10% off, At least 20% off, At least 30% off, At least 4 stars, At least 4.5 stars, At least 40% off, At least 50% off, At least 60% off, At least 70% off, At least 80% off, At least 90% off, Audiobooks, Bible Accessories, Bible Covers, Bible Studies & Curriculum, Bibles, Books, Buy in Bulk, Catholic, Children, Christian Living, Christmas, Church & Pastoral, Church Supplies, Closeouts, Clothing & Accessories, Crafts & Recreation, DVDs, Download, Family, Fiction, Focus Magazines, Focus Resource, Focus Reviewed, Focus on the Family, Gift & Home, Homeschool, Less than $10, Less than $100, Less than $25, Less than $5, MP3 Music Downloads, Music, New Release, Non-Fiction, Pre-Order, Radio Theatre, Sale, Slightly Imperfect, Software, Spanish, Subscriptions, Sunday School, Teens, VBS, Videos, eBooks, eBooks On Sale]"
+8, "price_range", "Price Range:", "[None Specified, $5 or less, $5 - $10, $10 - $25, $25 - $100, $100 and up]"
+9, "author_only", "Author:", "[]"
+10, "artist", "Artist:", "[]"
+11, "editor", "Editor:", "[]"
+12, "illustrator", "Illustrator:", "[]"
+13, "narrator", "Narrator:", "[]"

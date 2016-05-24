@@ -1,0 +1,21 @@
+number form: 10
+source: http://www.amazon.com/exec/obidos/ats-query-page/002-8354067-7592055/gp/search/ref=sr_adv_b/
+number of nodes
+15
+
+number of leafs
+14
+1, "field-keywords", "Keywords", "[]"
+2, "field-author", "Author", "[]"
+3, "field-title", "Title", "[]"
+4, "field-isbn", "ISBN(s)", "[]"
+5, "field-publisher", "Publisher", "[]"
+6, "node", "Subject", "[All Subjects, Arts & Photography, Bargain Books, Biographies & Memoirs, Business & Investing, Children's Books, Christian Book & Bibles, Comics & Graphic Novels, Cookbooks, Food & Wine, Crafts, Hobbies & Home, Computers & Technology, Education & Reference, Gay & Lesbian, Health, Fitness & Dieting, History, Humor & Entertainment, Law, Literature & Fiction, Medicine, Mystery, Thriller & Suspense, Parenting & Relationships, Politics & Social Sciences, Professional & Technical Books, Religion & Spirituality, Romance, Science & Math, Science Fiction & Fantasy, Sports & Outdoors, Teens, Travel]"
+7, "field-p_n_condition-type", "Condition", "[All Conditions, New, Used, Collectible]"
+8, "field-feature_browse-bin", "Format", "[All Formats, Paperback, Hardcover, Kindle Edition, Audible Audio Edition, HTML, PDF, Audio CD, Board Book, Audio Cassette, Calendar, School Binding, MP3 CD, Audiobooks, Printed Books]"
+9, "field-subject", "Reader Age", "[All Ages, Baby-3 Years, 4-8 Years, 9-12 Years, Teen]"
+10, "field-language", "Language", "[All Languages, English, French, German, Spanish]"
+11, "field-dateop", "Pub. Date", "[During, Before, After]"
+12, "field-datemod", "Month", "[, Jan, Feb, Mar, Apr, May, June, July, Aug, Sep, Oct, Nov, Dec]"
+13, "field-dateyear", "Year", "[]"
+14, "sort", "Sort Results by:", "[Relevance, Bestselling, Price: Low to High, Price: High to Low, Avg. Customer Review, Publication Date]"

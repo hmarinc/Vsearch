@@ -1,0 +1,28 @@
+number form: 0
+source: http://www.alibris.com/search/search.cfm?S=R/booksearch
+number of nodes
+25
+
+number of leafs
+21
+1, "mtype", "Find", "[Books, Movies, Music, Music - Classical]"
+2, "wtit", "Title", "[, ]"
+3, "wauth", "Author", "[, ]"
+4, "wtopic", "Subject", "[, ]"
+5, "wquery", "Keyword", "[, ]"
+6, "qisbn", "ISBN", "[, ]"
+7, "invid", "Alibris ID", "[, ]"
+8, "qsort", "Method", "[, price: low to high, price: high to low, condition, title, author, pub date, title: reverse, author: reverse, pub date: reverse]"
+9, "svs", "Find only books eligible for", "[1]"
+10, "binding", "Binding", "[all bindings, hardcover, softcover, audiobook]"
+11, "wlang", "Language", "[any language, Afrikaans, Arabic, Basque, Bengali, Catalan, Chinese, Czech, Danish, Dutch, Egyptian, English, Finnish, French, German, Hebrew, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Korean, Latin, Lithuanian, Norwegian, Persian, Polish, Portugese, Romanian, Russian, Sanskrit, Slovak, Slovenian, Spanish, Swedish, Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish]"
+16, "qprice", "from $", "[, ]"
+17, "qpricehi", "to $", "[, ]"
+18, "qyear", "after", "[, ]"
+19, "qyearhi", "before", "[, ]"
+14, "qpub", "Publisher", "[, ]"
+20, "first", "First edition", "[1]"
+21, "fiction", "Fiction", "[y]"
+22, "signed", "Signed", "[1]"
+23, "nonfiction", "Nonfiction", "[y]"
+24, "dj", "Dust jacket", "[1]"

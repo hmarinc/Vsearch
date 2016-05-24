@@ -1,0 +1,40 @@
+RBlock: - no label
+   RLine (0): -  no label
+   RBlock: - no label
+      RLine (1): -  no label
+         RLabel[label = Use any combination:]
+   RLine (0): -  no label
+   RTable: - no label
+      RBlock: TBC(0<1>,0<1>) - no label
+         RLine (1): -  no label
+            RLabel[label = title:]
+      RBlock: TBC(0<1>,1<1>) - no label
+         RLine (1): -  no label
+            UI: text - no label
+      RBlock: TBC(1<1>,0<1>) - no label
+         RLine (1): -  no label
+            RLabel[label = author:]
+      RBlock: TBC(1<1>,1<1>) - no label
+         RLine (1): -  no label
+            UI: text - no label
+      RBlock: TBC(2<1>,0<1>) - no label
+         RLine (1): -  no label
+            RLabel[label = ISBN:]
+      RBlock: TBC(2<1>,1<1>) - no label
+         RLine (1): -  no label
+            UI: text - no label
+      RBlock: TBC(3<1>,0<1>) - no label
+         RLine (1): -  no label
+            RLabel[label = results:]
+      RBlock: TBC(3<1>,1<1>) - no label
+         RLine (1): -  no label
+            UI: select - no label
+      RBlock: TBC(4<1>,0<1>) - no label
+         RLine (1): -  no label
+            RLabel[label = sorting:]
+      RBlock: TBC(4<1>,1<1>) - no label
+         RLine (1): -  no label
+            UI: select - no label
+      RBlock: TBC(5<1>,1<1>) - no label
+         RLine (0): -  no label
+   RLine (0): -  no label

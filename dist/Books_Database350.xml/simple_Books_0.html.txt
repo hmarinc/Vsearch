@@ -1,0 +1,156 @@
+RBlock: - no label
+   RLine (0): -  no label
+   RBlock: - no label
+      RLine (0): -  no label
+   RLine (0): -  no label
+   RTable: - no label
+      RBlock: TBC(0<1>,0<1>) - no label
+         RLine (0): -  no label
+         RTable: - no label
+            RBlock: TBC(0<1>,0<2>) - no label
+               RLine (0): -  no label
+               RBlock: - no label
+                  RLine (1): -  no label
+                     RLabel[label = Enter your search terms below:]
+               RLine (0): -  no label
+            RBlock: TBC(1<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Find]
+            RBlock: TBC(1<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: select - no label
+            RBlock: TBC(2<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Title]
+            RBlock: TBC(2<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: text - no label
+            RBlock: TBC(3<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Author]
+            RBlock: TBC(3<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: text - no label
+            RBlock: TBC(4<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Subject]
+            RBlock: TBC(4<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: text - no label
+            RBlock: TBC(5<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Keyword]
+            RBlock: TBC(5<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: text - no label
+            RBlock: TBC(6<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = ISBN]
+            RBlock: TBC(6<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: text - no label
+            RBlock: TBC(7<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Alibris ID]
+            RBlock: TBC(7<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: text - no label
+            RBlock: TBC(8<1>,0<2>) - no label
+               RLine (0): -  no label
+               RBlock: - no label
+                  RLine (1): -  no label
+                     RLabel[label = Sort your results below:]
+               RLine (0): -  no label
+            RBlock: TBC(9<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Method]
+            RBlock: TBC(9<1>,1<1>) - no label
+               RLine (1): -  no label
+                  UI: select - no label
+         RLine (0): -  no label
+      RBlock: TBC(0<1>,2<1>) - no label
+         RLine (0): -  no label
+         RTable: - no label
+            RBlock: TBC(0<1>,0<3>) - no label
+               RLine (0): -  no label
+               RBlock: - no label
+                  RLine (1): -  no label
+                     RLabel[label = Narrow your search below:]
+               RLine (0): -  no label
+            RBlock: TBC(1<1>,0<3>) - no label
+               RLine (0): -  no label
+               RBlock: - no label
+                  RLine (0): -  no label
+                  RBlock: - no label
+                     RLine (4): -  no label
+                        UI: checkbox - no label
+                        RLabel[label = Find only books eligible for]
+                        RLabel[label = free shipping]
+                        RLabel[label = .]
+                  RLine (0): -  no label
+               RLine (0): -  no label
+            RBlock: TBC(2<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Binding]
+            RBlock: TBC(2<1>,1<2>) - no label
+               RLine (1): -  no label
+                  UI: select - no label
+            RBlock: TBC(3<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Language]
+            RBlock: TBC(3<1>,1<2>) - no label
+               RLine (1): -  no label
+                  UI: select - no label
+            RBlock: TBC(4<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Price range]
+            RBlock: TBC(4<1>,1<2>) - no label
+               RLine (5): -  no label
+                  RLabel[label = from $]
+                  UI: text - no label
+                  RLabel[label = to $]
+                  UI: text - no label
+                  RLabel[label = change currency]
+            RBlock: TBC(5<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Publication year]
+            RBlock: TBC(5<1>,1<2>) - no label
+               RLine (4): -  no label
+                  RLabel[label = after]
+                  UI: text - no label
+                  RLabel[label = before]
+                  UI: text - no label
+            RBlock: TBC(6<1>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Publisher]
+            RBlock: TBC(6<1>,1<2>) - no label
+               RLine (1): -  no label
+                  UI: text - no label
+            RBlock: TBC(7<3>,0<1>) - no label
+               RLine (1): -  no label
+                  RLabel[label = Attributes]
+            RBlock: TBC(7<1>,1<1>) - no label
+               RLine (2): -  no label
+                  UI: checkbox - no label
+                  RLabel[label = First edition]
+            RBlock: TBC(7<1>,2<1>) - no label
+               RLine (2): -  no label
+                  UI: checkbox - no label
+                  RLabel[label = Fiction]
+            RBlock: TBC(8<1>,1<1>) - no label
+               RLine (2): -  no label
+                  UI: checkbox - no label
+                  RLabel[label = Signed]
+            RBlock: TBC(8<1>,2<1>) - no label
+               RLine (2): -  no label
+                  UI: checkbox - no label
+                  RLabel[label = Nonfiction]
+            RBlock: TBC(9<1>,1<1>) - no label
+               RLine (2): -  no label
+                  UI: checkbox - no label
+                  RLabel[label = Dust jacket]
+         RLine (0): -  no label
+   RLine (0): -  no label
+   RBlock: - no label
+      RLine (0): -  no label
+   RLine (0): -  no label

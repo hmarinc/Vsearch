@@ -1,0 +1,7 @@
+RBlock: - no label
+   UI: text - Title:
+   UI: text - Author:
+   UI: text - Subject:
+   UI: text - Keywords:
+   UI: text - Publisher:
+   UI: text - Publication Year:

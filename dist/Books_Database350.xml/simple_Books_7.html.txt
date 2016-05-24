@@ -1,0 +1,30 @@
+RBlock: - no label
+   RLine (0): -  no label
+   RBlock: - no label
+      RLine (0): -  no label
+   RLine (0): -  no label
+   RBlock: - no label
+      RLine (1): -  no label
+         UI: text - no label
+   RLine (0): -  no label
+   RBlock: - no label
+      RLine (0): -  no label
+      RBlock: - no label
+         RLine (0): -  no label
+         RBlock: - no label
+            RLine (1): -  no label
+               RLabel[label = all]
+         RLine (0): -  no label
+         RBlock: - no label
+            RLine (1): -  no label
+               RLabel[label = ISBN]
+         RLine (0): -  no label
+         RBlock: - no label
+            RLine (1): -  no label
+               RLabel[label = title]
+         RLine (0): -  no label
+         RBlock: - no label
+            RLine (1): -  no label
+               RLabel[label = author]
+         RLine (0): -  no label
+      RLine (0): -  no label

@@ -1,0 +1,5 @@
+RBlock: - no label
+   UI: text - Author:
+   UI: text - Title:
+   UI: text - Keyword:
+   UI: text - ISBN:

@@ -1,0 +1,186 @@
+<form action="/gp/search/ref=sr_adv_b/" method="get" onSubmit="return isbnCheck()">
+                  <input type="hidden" name="search-alias" value="stripbooks"/>
+                  <input type="hidden" name="unfiltered" value="1"/>
+                  <table cellspacing="0" cellpadding="0" border="0" id="asMain" style="padding: 10px;">
+                    <tbody>
+                      <tr>
+                        <td valign="top" style="background: transparent url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/grey-dot-vert-border._V44209678_.gif) repeat-y scroll right top; padding-right: 15px; width : 50%;">
+                          <div class="asSection">
+                            <span class="asLabel">Keywords</span>
+                            <input name="field-keywords" type="text" size="22" style="width:100%" class="asField"/>
+                          </div>                
+                          <div class="asSection">
+                            <span class="asLabel">Author</span>
+                            <input name="field-author" type="text" size="22" style="width:100%" class="asField"/>
+                          </div>                
+                          <div class="asSection">
+                            <span class="asLabel">Title</span>
+                            <input name="field-title" type="text" size="22" style="width:100%" class="asField" />
+                          </div>                
+                          <div class="asSection">
+                            <span class="asLabel">ISBN(s)</span>
+                            <input id="field-isbn" name="field-isbn" type="text" size="22" style="width:100%" class="asField"/>
+                          </div>                
+                          <div class="asSection">
+                            <span class="asLabel">Publisher</span>
+                            <input name="field-publisher" type="text" size="22" style="width:100%" class="asField"/>
+                          </div>                
+                          <div class="asSection">
+                            <span class="asLabel">Subject</span>
+                            <select name="node">
+                              <option value="">All Subjects</option>
+                              <option value="1">Arts & Photography</option>
+                              <option value="45">Bargain Books</option>
+                              <option value="2">Biographies & Memoirs</option>
+                              <option value="3">Business & Investing</option>
+                              <option value="4">Children's Books</option>
+                              <option value="12290">Christian Book & Bibles</option>
+                              <option value="4366">Comics & Graphic Novels</option>
+                              <option value="6">Cookbooks, Food & Wine</option>
+                              <option value="48">Crafts, Hobbies & Home</option>
+                              <option value="5">Computers & Technology</option>
+                              <option value="21">Education & Reference</option>
+                              <option value="301889">Gay & Lesbian</option>
+                              <option value="10">Health, Fitness & Dieting</option>
+                              <option value="9">History</option>
+                              <option value="86">Humor & Entertainment</option>
+                              <option value="10777">Law</option>
+                              <option value="17">Literature & Fiction</option>
+                              <option value="13996">Medicine</option>
+                              <option value="18">Mystery, Thriller & Suspense</option>
+                              <option value="20">Parenting & Relationships</option>
+                              <option value="3377866011">Politics & Social Sciences</option>
+                              <option value="173507">Professional & Technical Books</option>
+                              <option value="22">Religion & Spirituality</option>
+                              <option value="23">Romance</option>
+                              <option value="75">Science & Math</option>
+                              <option value="25">Science Fiction & Fantasy</option>
+                              <option value="26">Sports & Outdoors</option>
+                              <option value="28">Teens</option>
+                              <option value="27">Travel</option>
+                            </select>
+                          </div>                
+                          <div>
+                          </div>                
+                        </td>
+                        <td valign="top" style="padding-left: 15px; width: 50%;">
+                          <div class="asSection">
+                            <span class="asLabel">Condition</span>							
+							<select name="field-p_n_condition-type">
+							  <option value="">All Conditions</option>
+							  <option value="1294423011">New</option>
+							  <option value="1294425011">Used</option>
+							  <option value="1294422011">Collectible</option>
+							</select> 
+                          </div>
+                          <div class="asSection">
+                            <span class="asLabel">Format</span>
+                            <select name="field-feature_browse-bin">
+                              <option value="">All Formats</option>
+                              <option value="2656022011">Paperback</option>
+                              <option value="2656020011">Hardcover</option>
+                              <option value="618073011">Kindle Edition</option>
+			      <option value="1240885011">Audible Audio Edition</option>
+                              <option value="699209011">HTML</option>
+                              <option value="699208011">PDF</option>
+                              <option value="618075011">Audio CD</option>
+                              <option value="2656019011">Board Book</option>
+                              <option value="2682078011">Audio Cassette</option>
+                              <option value="618079011">Calendar</option>
+                              <option value="2656023011">School Binding</option>
+                              <option value="2682079011">MP3 CD</option>
+                              <option value="618075011">Audiobooks</option>
+                              <option value="618083011">Printed Books</option>
+                            </select>
+                          </div>
+                          <div class="asSection">
+                            <span class="asLabel">Reader Age</span>
+                            <select name="field-subject">
+                              <option value="">All Ages</option>
+                              <option value="Baby/Preschool">Baby-3 Years</option>
+                              <option value="4-8">4-8 Years</option>
+                              <option value="9-12">9-12 Years</option>
+                              <option value="Books - Young Adult">Teen</option></select>
+                          </div>                
+                          <div class="asSection">
+                            <span class="asLabel">Language</span>
+                            <select name="field-language">
+                              <option value="">All Languages</option>
+                              <option value="English">English</option>
+                              <option value="French">French</option>
+                              <option value="German">German</option>
+                              <option value="Spanish">Spanish</option>
+                            </select>
+                          </div>                
+                          <div class="asSection">
+                            <table cellspacing="0" cellpadding="0" border="0">
+                              <tbody><tr>
+                                  <td><span class="asLabel">Pub. Date</span></td> 
+				  												<td style="padding-left: 4px;"><span class="asLabel">Month</span></td>
+				  												<td style="padding-left: 4px;"><span class="asLabel">Year</span></td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <select name="field-dateop">
+                                      <option value="During">During </option>
+                                      <option value="before">Before</option>
+                                      <option value="After">After</option>
+                                    </select>
+                                  </td>
+                                  <td style="padding-left: 4px;">
+																		<select name="field-datemod">
+																			<option value=""></option>
+																			<option value="1">Jan</option>
+																			<option value="2">Feb</option>
+																			<option value="3">Mar</option>
+																			<option value="4">Apr</option>
+																			<option value="5">May</option>
+																			<option value="6">June</option>
+																			<option value="7">July</option>
+																			<option value="8">Aug</option>
+																			<option value="9">Sep</option>
+																			<option value="10">Oct</option>
+																			<option value="11">Nov</option>
+																			<option value="12">Dec</option>
+																		</select>
+																	</td>
+                                  <td style="padding-left: 4px;"><input  name="field-dateyear" type="text" maxlength="4" size="4"/>  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>                
+                          <div class="asSection">
+                            <span class="asLabel">Sort Results by:</span>
+                            <select name="sort">
+                              <option value="relevanceexprank">Relevance</option>
+                              <option value="salesrank">Bestselling</option>
+                              <option value="price">Price: Low to High</option>
+                              <option value="-price">Price: High to Low</option>
+                              <option value="reviewrank_authority">Avg. Customer Review</option>
+                              <option value="daterank">Publication Date</option>
+                            </select>
+                          </div>                
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding: 10px 0pt; text-align: center;" colspan="2">
+                          <input type="image" src="https://images-na.ssl-images-amazon.com/images/G/01/nav2/buttons/search-md-sec._V33237624_.gif" name="Adv-Srch-Books-Submit" alt="Go"/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td id="asExamples" colspan="2">
+                          <strong>Real-world Examples</strong>
+                          <p> Trying to find books written by Malcolm X but not an autobiography? Try this search: <br/> Put '<b>Malcolm X</b>' in the 'Author' field and '<b>-autobiography</b>' in the 'Keywords' field.
+                            <a href="http://www.amazon.com/gp/search/ref=sr_adv_b_ex_1/?search-alias=stripbooks&field-keywords=-autobiography&field-author=Malcolm+X&sort=salesrank">See the results</a>
+                          </p>
+                          <p>
+                            Looking for the exact books from your 20th Century American Literature syllabus? 
+                            Enter all the ISBNs in the 'ISBN' field, with a '|' (pipe) between each one. <br/>
+                            E.g. <b> 9780140285000 | 9780743273565 | 9780061120060</b>. 
+                            <a href="http://www.amazon.com/gp/search/ref=sr_adv_b_ex_2/?search-alias=stripbooks&field-keywords=&select-author=field-author-like&select-title=field-title&subject=&select-subject=field-subject&field-publisher=&field-isbn=9780140285000 +%7C+9780743273565 +%7C+9780061120060&field-dateop=before&field-datemod=0&field-dateyear=2009&chooser-sort=rank%21%2Bsalesrank">See the results</a>
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </form>

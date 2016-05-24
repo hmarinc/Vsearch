@@ -1,0 +1,45 @@
+<FORM action="search.php" method="GET">
+<INPUT type="HIDDEN" name="type" value="adv">
+<p class="medium" align=center><B>Use any combination:</B></p>
+</span>
+<TABLE width="100%" cellspacing="0" cellpadding="5" border="0">
+<TR>
+<TD align="right" class="medium">title:</TD>
+<TD><INPUT type="text" name="title" size="22"></TD>
+</TR>
+<TR>
+<TD align="right" class="medium">author:</TD>
+<TD>
+<INPUT type="text" name="author" size="22"></TD>
+</TR>
+<TR>
+<TD align="right" class="medium">ISBN:</TD>
+<TD>
+<INPUT type="text" name="isbn" size="22"></TD>
+</TR>
+<TR>
+<TD align="right" class="medium">results:</TD>
+<TD>
+<select name="show_all" style='font-size: 70%;'>
+<option value="">Display What We Carry
+<option value="TRUE">Display All Matches
+</select>
+</TD>
+</TR>
+<TR>
+<TD align="right" class="medium">sorting:</TD>
+<TD>
+<SELECT name="sort" style='font-size: 70%;'>
+<option value="">Default
+<option value="relevance">Relevance
+<option value="title">Title
+<option value="author">Author
+<option value="price">Price
+</SELECT>
+</TR>
+<TR>
+<TD></TD>
+<TD>
+<INPUT type="submit" value="search" border="0" class="button"></TD>
+</TR>
+</FORM>

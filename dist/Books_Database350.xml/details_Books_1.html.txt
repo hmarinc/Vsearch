@@ -1,0 +1,12 @@
+number form: 1
+source: http://www.textbookx.com/search_adv.php/search.php
+number of nodes
+6
+
+number of leafs
+5
+1, "title", "title:", "[]"
+2, "author", "author:", "[]"
+3, "isbn", "ISBN:", "[]"
+4, "show_all", "results:", "[Display What We Carry, Display All Matches]"
+5, "sort", "sorting:", "[Default, Relevance, Title, Author, Price]"

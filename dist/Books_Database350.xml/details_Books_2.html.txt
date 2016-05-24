@@ -1,0 +1,13 @@
+number form: 2
+source: http://www.buy.com/retail/advSearch.asp?loc=106/retail/searchresults.asp
+number of nodes
+7
+
+number of leafs
+6
+1, "qutype", "Search By", "[Any area, Title, Author's Name, ISBN number, Publisher's name]"
+2, "searchid", "Category", "[All Categories, Art, Audiobooks, Biography, Business, Children's, Computer, Cooking, Entertainment, Health, History, Home, Horror, Fiction, Mystery, Nonfiction, Family, Reference, Religion, Romance, Science, Scifi, Sports, Travel, Young Adult]"
+3, "qu", "Keywords", "[, ]"
+4, "formatid", "Format", "[Any, Audio Cassette, Audio CD, Hardcover, Paperback, Pocket Book, Computer Readable, Calendar]"
+5, "orderby", "Sort Results By...", "[Alphabetical, Most Popular, Publish Date, Price Ascending, Price Descending]"
+6, "nrecpage", "Number of results per page:", "[25, 40, 55, 70, 85]"

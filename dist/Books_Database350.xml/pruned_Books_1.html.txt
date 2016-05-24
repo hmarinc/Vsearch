@@ -1,0 +1,6 @@
+RBlock: - Use any combination:
+   UI: text - title:
+   UI: text - author:
+   UI: text - ISBN:
+   UI: select - results:
+   UI: select - sorting:

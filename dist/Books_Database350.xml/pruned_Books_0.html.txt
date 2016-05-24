@@ -1,0 +1,25 @@
+RBlock: - no label
+   UI: select - Find
+   UI: text - Title
+   UI: text - Author
+   UI: text - Subject
+   UI: text - Keyword
+   UI: text - ISBN
+   UI: text - Alibris ID
+   UI: select - Method
+   UI: checkbox - Find only books eligible for
+   UI: select - Binding
+   UI: select - Language
+   RLine (2): -  Price range
+      UI: text - from $
+      UI: text - to $
+   RLine (2): -  Publication year
+      UI: text - after
+      UI: text - before
+   UI: text - Publisher
+   RLine (5): -  Attributes
+      UI: checkbox - First edition
+      UI: checkbox - Fiction
+      UI: checkbox - Signed
+      UI: checkbox - Nonfiction
+      UI: checkbox - Dust jacket

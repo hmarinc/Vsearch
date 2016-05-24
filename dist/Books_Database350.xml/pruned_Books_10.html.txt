@@ -1,0 +1,15 @@
+RBlock: - no label
+   UI: text - Keywords
+   UI: text - Author
+   UI: text - Title
+   UI: text - ISBN(s)
+   UI: text - Publisher
+   UI: select - Subject
+   UI: select - Condition
+   UI: select - Format
+   UI: select - Reader Age
+   UI: select - Language
+   UI: select - Pub. Date
+   UI: select - Month
+   UI: text - Year
+   UI: select - Sort Results by:

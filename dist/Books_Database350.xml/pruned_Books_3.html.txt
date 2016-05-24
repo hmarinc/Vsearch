@@ -1,0 +1,14 @@
+RBlock: - no label
+   UI: text - Product Keywords:
+   UI: text - Title:
+   UI: text - Author/Artist: More on author search...
+   UI: text - Publisher:
+   UI: text - ISBN:
+   UI: text - CBD Stock Number:
+   UI: select - Search In:
+   UI: select - Price Range:
+   UI: text - Author:
+   UI: text - Artist:
+   UI: text - Editor:
+   UI: text - Illustrator:
+   UI: text - Narrator:

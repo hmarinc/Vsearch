@@ -1,0 +1,13 @@
+number form: 5
+source: http://www.bigwords.com/search/advanced-post
+number of nodes
+7
+
+number of leafs
+6
+1, "is[title]", "Title:", "[, ]"
+2, "is[author]", "Author:", "[, ]"
+3, "is[subject]", "Subject:", "[, ]"
+4, "is[keywords]", "Keywords:", "[, ]"
+5, "is[publisher]", "Publisher:", "[, ]"
+6, "is[pubdate]", "Publication Year:", "[, ]"

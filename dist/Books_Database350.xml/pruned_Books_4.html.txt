@@ -1,0 +1,9 @@
+RBlock: - no label
+   UI: text - Keyword(s):
+   UI: radio - keywords
+             {All, Any}
+   UI: text - Title:
+   UI: text - Author:
+   UI: select - Category:
+   UI: text - ISBN:
+   UI: select - results at a time.

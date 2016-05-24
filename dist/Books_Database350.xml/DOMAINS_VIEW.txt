@@ -1,0 +1,11 @@
+Source:                               http://www.alibris.com/search/search.cfm?S=R , ID:   Books_0 ,  Action:                                       /booksearch  PageRank:7
+Source:                                    http://www.textbookx.com/search_adv.php , ID:   Books_1 ,  Action:                                        search.php  PageRank:5
+Source:                            http://www.buy.com/retail/advSearch.asp?loc=106 , ID:   Books_2 ,  Action:                         /retail/searchresults.asp  PageRank:6
+Source:      http://www.christianbook.com/Christian/Books/advanced_search/91754517 , ID:   Books_3 ,  Action:http://www.christianbook.com/Christian/Books/advanced_search/1469705875  PageRank:6
+Source:                                        http://www.aaronbooks.com/power.asp , ID:   Books_4 ,  Action:                                       results.asp  PageRank:4
+Source:                                                    http://www.bigwords.com , ID:   Books_5 ,  Action:                             /search/advanced-post  PageRank:5
+Source:                                                    http://www.bigwords.com , ID:   Books_6 ,  Action:                             /search/advanced-post  PageRank:5
+Source:                                                    http://www.bigwords.com , ID:   Books_7 ,  Action:                           /search/search-balance/  PageRank:5
+Source:                                                    http://www.bigwords.com , ID:   Books_8 ,  Action:                             /search/advanced-post  PageRank:5
+Source:                                                   http://www.abebooks.com/ , ID:   Books_9 ,  Action:                            /servlet/SearchResults  PageRank:8
+Source:       http://www.amazon.com/exec/obidos/ats-query-page/002-8354067-7592055 , ID:  Books_10 ,  Action:                          /gp/search/ref=sr_adv_b/  PageRank:8

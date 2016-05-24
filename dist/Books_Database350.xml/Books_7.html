@@ -1,0 +1,20 @@
+<FORM ACTION="/search/search-balance/" METHOD="GET" STYLE="margin: 0px; padding: 0px; " name="easysearch_book_form">
+		<div class="easysrchtop">
+							<div style="float:left;" class="easysrchtoplft homeul">
+										<ul class="bookpage">
+					<li id="estall"  onclick="seleasysrchtype('estall');"><span>all</span></li>
+					<li id="estisbn"  class="seltype"  onclick="seleasysrchtype('estisbn');"><span>ISBN</span></li>
+					<li id="esttitle"  onclick="seleasysrchtype('esttitle');"><span>title</span></li>
+					<li id="estauthor"  onclick="seleasysrchtype('estauthor');"><span>author</span></li>
+							</ul>
+			</div>
+								</div>
+									<div class="esrchmain srchomepage">
+								<input type="HIDDEN" value="easy-search" name="reloc-z">
+			<INPUT TYPE="HIDDEN" NAME="producttype" VALUE="all">
+					<INPUT TYPE="HIDDEN" NAME="searchtype" id="searchtype" VALUE="isbn">
+					<input type="text" name="searchstring" value="Search to BUY, RENT, or SELL Textbooks" class="easysearchhdboxwhite" onFocus="if(this.value=='Search to BUY, RENT, or SELL Textbooks') this.value='';" onBlur="if(this.value=='') this.value='Search to BUY, RENT, or SELL Textbooks';">
+		</div>
+		  
+			<INPUT type="submit" NAME="buySell" VALUE="" class="drpsrchgobtn">
+								</FORM>

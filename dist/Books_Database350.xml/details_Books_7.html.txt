@@ -1,0 +1,8 @@
+number form: 7
+source: http://www.bigwords.com/search/search-balance/
+number of nodes
+2
+
+number of leafs
+1
+1, "searchstring", "no label" , "search to buy, rent, or sell textbooks "

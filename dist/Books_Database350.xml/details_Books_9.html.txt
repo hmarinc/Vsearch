@@ -1,0 +1,11 @@
+number form: 9
+source: http://www.abebooks.com/servlet/SearchResults
+number of nodes
+5
+
+number of leafs
+4
+1, "an", "Author:", "[]"
+2, "tn", "Title:", "[]"
+3, "kn", "Keyword:", "[]"
+4, "isbn", "ISBN:", "[]"
