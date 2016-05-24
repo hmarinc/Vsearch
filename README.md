@@ -1,4 +1,7 @@
 # Vsearch
+
+https://zenodo.org/badge/latestdoi/22239/hmarinc/Vsearch
+
 This repository contains the source code of VSearch, a vertical search tool to crawl the Deep Web by using a unified Web Query Interface (WQI).
 
 Before executing VSearch it is needed to install the following components:
