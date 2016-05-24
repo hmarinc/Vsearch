@@ -1,0 +1,766 @@
+<source>
+<srcname> WHSmith.co.uk </srcname>
+<srcurl> http://www.whsmith.co.uk/whs/Go.ASP?menu=DVD_AND_Video&amp;pagedef=/dvdvideo/home/index.htm </srcurl>
+<srcinterface> http://www.whsmith.co.uk/whs/Go.ASP?menu=DVD_AND_Video&amp;type=form </srcinterface>
+<browsable> No </browsable>
+<browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>LowestFare.com</srcname>
+<srcurl>http://www.lowestfare.com/</srcurl>
+<srcinterface>http://www.lowestfare.com/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> Music Video Distributors </srcname>
+<srcurl> http://www.musicvideodistributors.com </srcurl>
+<srcinterface> http://www.musicvideodistributors.com/customer/search.php </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://ccpm.org.mx/nuestro_colegio/comentarios.php</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> Ain't It Cool News </srcname>
+<srcurl> http://www.aint-it-cool-news.com </srcurl>
+<srcinterface> http://www.aint-it-cool-news.com/search.html </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>usedcar.com</srcname>
+<srcurl>http://www.usedcars.com/</srcurl>
+<srcinterface>http://www.usedcars.com/CW.shtml</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>AmarilloAutos.com</srcname>
+<srcurl>http://amarillo.autochooser.com/index.asp</srcurl>
+<srcinterface>http://amarillo.autochooser.com/sfrmain.asp</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>Kelly Grimsley Auto Group</srcname>
+<srcurl>http://www.kellygrimsley.com/</srcurl>
+<srcinterface>http://midland.autochooser.com/dvSearchForm.asp?dlrID=10&amp;dpath=kellygrimsley&amp;Dealer=TRUE&amp;CALLINGPAGE=dealer&amp;submit=TRUE&amp;optSellType=New&amp;Submit=1</srcinterface>
+<browsable> Yes </browsable><browsedepth> 2 </browsedepth>
+</source>
+
+<source>
+<srcname>Cape Cod hotels and travel guide</srcname>
+<srcurl>http://cape_cod.lodging.com/</srcurl>
+<srcinterface>http://cape_cod.lodging.com/</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://www.pgr.gob.mx/Denuncia/Extranjero/DenExt/denuncia.asp</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Bigwords.com</srcname>
+<srcurl>http://www.bigwords.com</srcurl>
+<srcinterface>http://www.bigwords.com</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>addall.com</srcname>
+<srcurl>http://www.addall.com/</srcurl>
+<srcinterface>http://used.addall.com/</srcinterface>
+<browsable>yes</browsable>
+<browsedepth>1</browsedepth>
+</source>
+
+<source>
+<srcname>Hotelwiz - find discount hotels, cheap hotel reservations, hotel discounts, luxury hotels &amp; more</srcname>
+<srcurl>http://ehotel.onetravel.com/</srcurl>
+<srcinterface>http://ehotel.onetravel.com/index.cfm?DK=1000001150&amp;Token=NULL</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname> MoviesUnlimited.com </srcname>
+<srcurl> http://www.moviesunlimited.com </srcurl>
+<srcinterface> http://www.moviesunlimited.com/musite/dvd.asp?mscssid=MXF05U6VJJ5P9HXGNSQMX6PVGWGHFVFE&amp;sRow=1 </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname> J&amp;R Music and Computer World </srcname>
+<srcurl> http://www.jandr.com/JRMoviePromoPage.process?Merchant_Id=1&amp;RestartFlow=t&amp;Name=VG.ALL </srcurl>
+<srcinterface> http://www.jandr.com/JRMoviePromoPage.process?Merchant_Id=1&amp;RestartFlow=t&amp;Name=VG.ALL </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>IntelliChoice CarCenter Auto Information</srcname>
+<srcurl>http://www.intellichoice.com/</srcurl>
+<srcinterface>http://www.intellichoice.com/search/criteriaSearch-fs.cfm</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>abbeys.com</srcname>
+<srcurl>http://www.abbeys.com.au/abbeys/home.do</srcurl>
+<srcinterface>http://www.abbeys.com.au/shop/advanced-search.do</srcinterface>
+<browsable></browsable>
+<browsedepth></browsedepth>
+</source>
+
+<source>
+<srcname>amazon.com Book Search</srcname>
+<srcurl>http://www.amazon.com</srcurl>
+<srcinterface>http://www.amazon.com/exec/obidos/ats-query-page/002-8354067-7592055</srcinterface>
+<browsable>yes</browsable>
+<browsedepth>0</browsedepth>
+</source>
+
+<source>
+<srcname>Free Carfinder service from Arizona AutoNet</srcname>
+<srcurl>http://www.azautonet.com/</srcurl>
+<srcinterface>http://autonetmail.com/UsedVehiclePriceQuote.asp?State=AZ</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>Iceland Airlines</srcname>
+<srcurl>http://www.icelandair.is/</srcurl>
+<srcinterface>http://www.icelandair.is/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Spirit Airlines</srcname>
+<srcurl>http://www.spiritair.com/welcome.cfm?msg=No&amp;Language=English</srcurl>
+<srcinterface>http://www.spiritair.com/welcome.cfm?msg=No&amp;Language=English</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> MoviesUnlimited.com </srcname>
+<srcurl> http://www.moviesunlimited.com </srcurl>
+<srcinterface> http://www.moviesunlimited.com/musite/frameset/index.asp?frame=find%5Fdirector%2Easp </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>Days Inn</srcname>
+<srcurl>http://www.daysinn.com/</srcurl>
+<srcinterface>http://www.daysinn.com/</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>Korean Airlines</srcname>
+<srcurl>http://www.koreanair.com/</srcurl>
+<srcinterface>http://www.koreanair.com/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Aloha Airlines</srcname>
+<srcurl>http://www.alohaairlines.com</srcurl>
+<srcinterface>http://www.alohaairlines.com/aq/index.shtml</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://www.hcnl.gob.mx/galeria/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>expedia.com</srcname>
+<srcurl>http://www.expedia.com</srcurl>
+<srcinterface>http://www.expedia.com/daily/home/default.asp?rfrr=-1065&amp;CCheck=1</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> MoviesUnlimited.com </srcname>
+<srcurl> http://www.moviesunlimited.com </srcurl>
+<srcinterface> http://www.moviesunlimited.com/musite/frameset/index.asp?frame=find%5Factor%2Easp </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>Discount Auto Pricing</srcname>
+<srcurl>http://www.discountautopricing.com/</srcurl>
+<srcinterface>http://www.discountautopricing.com/quote.htm</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://www2.monex.com.mx/empresas/contacto.php</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Yahoo.com</srcname>
+<srcurl>http://www.yahoo.com</srcurl>
+<srcinterface>http://edit.travel.yahoo.com/config/ytravel?resform=YahooFlightsR&amp;.redir_from=OLDCONFIG</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Dick Walter Auto Center</srcname>
+<srcurl>http://www.dickwalterauto.com/</srcurl>
+<srcinterface>http://www.dickwalterauto.com/inventory.cgi</srcinterface>
+<browsable> Yes </browsable><browsedepth> 2 </browsedepth>
+</source>
+
+<source>
+<srcname>Air Europa</srcname>
+<srcurl>http://www.air-europa.com</srcurl>
+<srcinterface>http://www.air-europa.com/aea/pck_webaea.principal?codlang=ING</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Singapore Airlines</srcname>
+<srcurl>http://www.singaporeair.com</srcurl>
+<srcinterface>http://www.singaporeair.com/saa/app/saa</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> PlanetOut </srcname>
+<srcurl> http://www.planetout.com/pno/popcornq/splash.html </srcurl>
+<srcinterface> http://www.planetout.com/pno/popcornq/movies/search/splash.html </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>American West Airlines</srcname>
+<srcurl>http://www.americawest.com/homeIE.asp</srcurl>
+<srcinterface>http://www.americawest.com/homeIE.asp</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> Lions Gate Films </srcname>
+<srcurl> http://www.lionsgatefilms.com/index_flash.html </srcurl>
+<srcinterface> http://www.lionsgatefilms.com/CorpSite/video/video.html </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>Travel British Columbia Canada reservations accommodations tours packages tourism.</srcname>
+<srcurl>http://travel.bc.ca/</srcurl>
+<srcinterface>http://travel.bc.ca/meta/travelbc3.html</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>United Airways</srcname>
+<srcurl>http://www.usairways.com/</srcurl>
+<srcinterface>http://www.usairways.com/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>PalBeachPost.com</srcname>
+<srcurl>http://www.pbclassifieds.com/</srcurl>
+<srcinterface>http://www.pbclassifieds.com/auto.html</srcinterface>
+<browsable> Yes </browsable><browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname> RareVideo.com </srcname>
+<srcurl> http://www.rarevideo.com </srcurl>
+<srcinterface> http://www.rarevideo.com/videos.asp </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>Hotel Reservations and Hotel Discounts from Hotwire</srcname>
+<srcurl>http://www.hotwire.com/</srcurl>
+<srcinterface>http://www.hotwire.com/hotels.jsp</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname> BIG MOVIE ZONE </srcname>
+<srcurl> http://www.bigmoviezone.com </srcurl>
+<srcinterface> http://www.bigmoviezone.com/articles/adv_featrev_search2.html </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 2 </browsedepth>
+</source>
+
+<source>
+<srcname>Orbitz: Hotel Reservations and Lodging</srcname>
+<srcurl>http://www.orbitz.com/</srcurl>
+<srcinterface>http://www.orbitz.com/App/ViewHotelSearch?cache=1020229193967&amp;requestId=90</srcinterface>
+<browsable> Yes </browsable><browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>InnSite: The Internet Directory of Bed and Breakfasts</srcname>
+<srcurl>http://www.innsite.com/</srcurl>
+<srcinterface>http://www.innsite.com/advancedSearch.php3</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>Quality Motors</srcname>
+<srcurl>http://www.qualitymotors.com/</srcurl>
+<srcinterface>http://www.moto-mart.com/dealerinterface/dealersearch2.asp?stylesheet=http://www.qualitymotors.com/dealer.css&amp;Dlr=QUALITY+MOTORS&amp;Did=9</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>Auto Europe Hotel Reservations</srcname>
+<srcurl>http://www.autoeurope.com/</srcurl>
+<srcinterface>http://www.autoeurope.com/zhotel.cfm</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://cobachbc.edu.mx/contacto-cbbc.php</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> Movies | myTELUS </srcname>
+<srcurl> http://www.mytelus.com/movies </srcurl>
+<srcinterface> http://www.mytelus.com/movies/releases.do </srcinterface>
+<browsable> No </browsable>
+<browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>Crystal Auto Mall  - Green Brook, New Jersey</srcname>
+<srcurl>http://www.crystalautomall.com/</srcurl>
+<srcinterface>http://www.crystalautomall.com/f_inventory.cgi</srcinterface>
+<browsable> Yes </browsable><browsedepth> 2 </browsedepth>
+</source>
+
+<source>
+<srcname>Singapore Airlines</srcname>
+<srcurl>http://www.singaporeair.com</srcurl>
+<srcinterface>http://www.singaporeair.com/saa/app/saa</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> The Internet Movie Database (IMDb) </srcname>
+<srcurl> http://us.imdb.com </srcurl>
+<srcinterface> http://us.imdb.com/search </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname> Videomoviehouse.com - DVD &amp; VHS Movies for Sale </srcname>
+<srcurl> http://www.videomoviehouse.com </srcurl>
+<srcinterface> http://www.videomoviehouse.com/advanced_search.php?PHPSESSID=67c4aca9a6e54856cb1a68794f968b8e </srcinterface>
+<browsable> No </browsable>
+<browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname> All Movie Guide </srcname>
+<srcurl> http://www.allmovie.com </srcurl>
+<srcinterface> http://www.allmovie.com/avg_film_finder.html?uid= </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>The American Book Center</srcname>
+<srcurl>http://www.abc.nl</srcurl>
+<srcinterface>http://www.abc.nl/search/advsearch.php</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>abebooks.com</srcname>
+<srcurl>http://dogbert.abebooks.com</srcurl>
+<srcinterface>http://www.hcnl.mx/</srcinterface>
+<browsable></browsable>
+<browsedepth></browsedepth>
+</source>
+
+<source>
+<srcname>CheapFares.com</srcname>
+<srcurl>http://cheapfares.com</srcurl>
+<srcinterface>https://cheapfares.com</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Respond.com</srcname>
+<srcurl>http://www.netgenshopper.com/</srcurl>
+<srcinterface>http://www.netgenshopper.com/buyers/requestform.jsp?cat=1320010000&amp;src=156</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>Bali Indonesia Travel Portal - Indo.Com</srcname>
+<srcurl>http://www.indo.com/</srcurl>
+<srcinterface>http://www.indo.com/cgi-fbin/HotelReservation/User/find-hotel.pl</srcinterface>
+<browsable> Yes </browsable><browsedepth> 2 </browsedepth>
+</source>
+
+<source>
+<srcname> Reel.com </srcname>
+<srcurl> http://www.reel.com/ </srcurl>
+<srcinterface> http://www.reel.com/dynamic/search/index.asp </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>abebooks.com</srcname>
+<srcurl>http://dogbert.abebooks.com</srcurl>
+<srcinterface>http://www.abebooks.com/</srcinterface>
+<browsable></browsable>
+<browsedepth></browsedepth>
+</source>
+
+<source>
+<srcname> Best Video Buys DVD and VHS Movie Search </srcname>
+<srcurl> http://www.bestwebbuys.com/video/index.html </srcurl>
+<srcinterface> http://www.bestwebbuys.com/video/advsearch.html </srcinterface>
+<browsable> No </browsable>
+<browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname> Videoflicks </srcname>
+<srcurl> http://www.videoflicks.com </srcurl>
+<srcinterface> http://www.videoflicks.com/ </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>MotorNET.ie - Ireland's premier motoring website</srcname>
+<srcurl>http://www.motornet.ie/</srcurl>
+<srcinterface>http://motornet.webzone.ie/usedcars/</srcinterface>
+<browsable> Yes </browsable><browsedepth> 2 </browsedepth>
+</source>
+
+<source>
+<srcname>Drive.com.au</srcname>
+<srcurl>http://www.drive.com.au/</srcurl>
+<srcinterface>http://www.drive.com.au/buy/used/advanced_search.asp</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>Traverse Motors</srcname>
+<srcurl>http://www.traversemotors.com</srcurl>
+<srcinterface>http://www.traversemotors.com/index.cfm?action=inventorysearch&amp;subaction=searchdisplay&amp;inventorytype=used</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>East Africa Internet Alliance</srcname>
+<srcurl>http://redbud.forest.net/</srcurl>
+<srcinterface>http://redbud.forest.net/eastafrica/Hotel/Public/search.lasso?-token.suppcode=lgt</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>hotwire.com</srcname>
+<srcurl>http://www.hotwire.com</srcurl>
+<srcinterface>http://www.hotwire.com/index.jsp</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> BlockBuster </srcname>
+<srcurl> http://www.blockbuster.com </srcurl>
+<srcinterface> http://www.blockbuster.com/bb/search/movie_advanced_search/0,7379,,00.html? </srcinterface>
+<browsable> No </browsable>
+<browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>MSN Autos - Site Search Page</srcname>
+<srcurl>http://autos.msn.com/</srcurl>
+<srcinterface>http://autos.msn.com/Search/</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>BargainTravel.com</srcname>
+<srcurl>http://www.bargaintravel.com</srcurl>
+<srcinterface>http://www.bargaintravel.com/probe.html</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> FYE Movies </srcname>
+<srcurl> http://www.fye.com/catalog/moviesGroup.jhtml?id=3333 </srcurl>
+<srcinterface> http://www.fye.com/vsearch/advSearch.jhtml </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>CarsDirect.com</srcname>
+<srcurl>http://www.carsdirect.com/</srcurl>
+<srcinterface>http://www.carsdirect.com/home</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>New car prices, used car pricing, auto reviews by Edmund's car buying guide</srcname>
+<srcurl>http://applications.edmunds.com/</srcurl>
+<srcinterface>http://applications.edmunds.com/search/?tid=edmunds.g.home.header.search.7.*</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>Hotelbook.com</srcname>
+<srcurl>http://www.hotelbook.com/</srcurl>
+<srcinterface>http://www.hotelbook.com/common/search.htm#search</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://192.100.158.3/open.php </srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Krieger</srcname>
+<srcurl>http://krieger.smartwebconcepts.com/</srcurl>
+<srcinterface>http://krieger.smartwebconcepts.com/frames.cfm</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname> Videomatica Online - VHS and DVD </srcname>
+<srcurl> http://www.videomatica.com </srcurl>
+<srcinterface> http://www.videomatica.com/x/store.asp?m=v </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>Barrier Motors, Incorporated</srcname>
+<srcurl>http://www.barriermotors.com/</srcurl>
+<srcinterface>http://www.barriermotors.com/f_quickquote.cgi</srcinterface>
+<browsable> Yes </browsable><browsedepth> 2 </browsedepth>
+</source>
+
+<source>
+<srcname>Continental Airlines</srcname>
+<srcurl>http://www.continental.com/</srcurl>
+<srcinterface>http://www.continental.com/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Delta Airlines</srcname>
+<srcurl>http://www.delta.com</srcurl>
+<srcinterface>http://www.delta.com/home/index.jsp</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> Skinnyguy.com </srcname>
+<srcurl> http://www.skinnyguy.com/content/index.cfm?do=location&amp;loc=119 </srcurl>
+<srcinterface> http://www.skinnyguy.com/search/index.cfm?do=advanced </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>Autonet.ca</srcname>
+<srcurl>http://usedcars.autonet.ca/</srcurl>
+<srcinterface>http://usedcars.autonet.ca/AutonetFinder.cfm</srcinterface>
+<browsable> No </browsable><browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>Aloha Airlines</srcname>
+<srcurl>http://www.alohaairlines.com</srcurl>
+<srcinterface>http://www.alohaairlines.com/aq/index.shtml</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Bookstore</srcname>
+<srcurl>http://www.bookstore.co.uk/</srcurl>
+<srcinterface>http://www.bookstore.co.uk/TBP.Direct//PurchaseProduct/OrderProduct/CustomerSelectProduct/AdvancedSearch.aspx?d=bookstore&s=C&r=10000046&ui=0&bc=0</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> Britannia Music and Video - Video </srcname>
+<srcurl> http://www.britannia-music.co.uk/ </srcurl>
+<srcinterface> http://www.britannia-music.co.uk/AdvancedVisualSearchInput.do </srcinterface>
+<browsable> Yes </browsable>
+<browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>Cheap Airlines</srcname>
+<srcurl>http://www.cheapairlines.com</srcurl>
+<srcinterface>http://www.cheapairlines.com/flightsadv.html</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>BananaTravel.com</srcname>
+<srcurl>http://www.bananatravel.com/</srcurl>
+<srcinterface>http://www.bananatravel.com/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://www.udlap.mx/campaign/MSN/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Atkins Kroll, Inc of Guam</srcname>
+<srcurl>http://www.akguam.com/</srcurl>
+<srcinterface>http://www.akguam.com/</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
+<source>
+<srcname>faremax.com</srcname>
+<srcurl>http://www.faremax.com</srcurl>
+<srcinterface>http://www.faremax.com/airline_tickets.asp</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Smarter Living</srcname>
+<srcurl>http://www.smarterliving.com</srcurl>
+<srcinterface>http://www.smarterliving.com/air/search/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>1,000's of Hotels, Guest Houses, Lodgings - UK Accommodation Directory for England, Scotland, Wales and Ireland</srcname>
+<srcurl>http://www.smoothhound.co.uk/</srcurl>
+<srcinterface>http://www.smoothhound.co.uk/advanced-search.html</srcinterface>
+<browsable> Yes </browsable><browsedepth> 0 </browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://fox.presidencia.gob.mx/evaluacion/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>American West Airlines</srcname>
+<srcurl>http://www.americawest.com/homeIE.asp</srcurl>
+<srcinterface>http://www.americawest.com/homeIE.asp</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname> theinfo.com: movies and videos </srcname>
+<srcurl> http://www.theinfo.com/movies/ </srcurl>
+<srcinterface> http://www.theinfo.com/movies/ </srcinterface>
+<browsable> No </browsable>
+<browsedepth> -1 </browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://eservicios.aguascalientes.gob.mx/servicios/Regcivil/01-RC01.asp</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>powells.com</srcname>
+<srcurl></srcurl>
+<srcinterface>http://cunorte.udg.mx/blog/egresados/2009/10/02/foro-de-oportunidades-laborales/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>United Airlines</srcname>
+<srcurl>http://www.ual.com/</srcurl>
+<srcinterface>http://www.ual.com/</srcinterface>
+<browsable>no</browsable>
+<browsedepth>-1</browsedepth>
+</source>
+
+<source>
+<srcname>Merchants Auto Superstore</srcname>
+<srcurl>http://www.mrac.com/</srcurl>
+<srcinterface>http://www.mrac.com/inventorysearch.cfm</srcinterface>
+<browsable> Yes </browsable><browsedepth> 1 </browsedepth>
+</source>
+
